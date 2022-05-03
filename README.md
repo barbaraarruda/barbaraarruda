@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaraarruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-*personal profile: vsco.com/babisaturn*
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/daydreamtulips/)
 [<img src = "https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white">](https://www.lastfm/user/seekingbabi/)
