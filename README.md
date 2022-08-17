@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*My name is barbara, just like barbie's name! i'm just a girl trying to...maybe programming with happiness? I'm currently working on artificial intelligence, science information, digital law and innovation management. My pronoums are she/her. I hope you have a nice day and that i can somehow help you with my codes. Stay safe and be happy.*
+*My name is barbara, just like barbie's name! My pronoums are she/her. I hope you have a nice day and that i can somehow help you with my codes. Stay safe and be happy.*
 
 
 
