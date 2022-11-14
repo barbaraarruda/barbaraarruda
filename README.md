@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*My name is barbara, just like barbie's name! My pronoums are she/her. I hope you have a nice day. Stay safe and be happy.*
 
 
 
