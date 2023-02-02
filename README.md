@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 </div>
 
 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/yhtapelet/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jupiterpalette/)
 [<img src = "https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white">](https://www.lastfm/user/seekingbabi/)
+[<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">/(https://www.linkedin.com/in/barbara-arruda/)
  
   
 
